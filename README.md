@@ -27,5 +27,6 @@ python main.py
 ````
 5. The application will detect faces in the sample image image.jpg. The output image will be saved in the project directory with the name output.jpg.
 
+
 ## How to use with a different image
 To detect faces in a different image, replace the file image.jpg with your desired image and run the application. The output image will be saved with the name output.jpg.
