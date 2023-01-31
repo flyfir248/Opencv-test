@@ -1,3 +1,5 @@
+# Only for educational purposes
+
 ## OpenCV Face Detection Application
 This is a simple OpenCV application to detect faces in an image. The application uses Haar cascade classifier XML file to perform face detection.
 
